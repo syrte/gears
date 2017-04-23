@@ -1,0 +1,20 @@
+{
+    "pep8_ignore":
+    [
+        "E309", // default
+        "E501", // line length
+        "E731", // lambda function
+        "E265", // comment start with "# "
+        "E301", "E302", "E303", // blank lines
+        "E226", // white space
+        "W291", // trailling white space
+    ],
+    "auto_formatting": true,
+    "autoformat_ignore":
+    [
+        "E309", // default
+        "E501", // line length
+    ],
+    "auto_formatting_timeout": 5,
+    "swallow_startup_errors": true,
+}

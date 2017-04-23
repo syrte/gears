@@ -1,0 +1,6 @@
+{
+    "mathjax_enabled": true,
+    "renderer_options-MarkdownRenderer": {
+        "extensions": ["extra", "codehilite", "meta", "toc", "nl2br"] //Python Markdown
+    }
+}
